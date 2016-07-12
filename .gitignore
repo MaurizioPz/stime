@@ -1,5 +1,7 @@
 .idea
 typings/**
+obj/**
+bin/**
 node_modules
 jspm_packages
 link-checker-results.txt
